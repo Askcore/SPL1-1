@@ -14,4 +14,4 @@
 + Installation Python
 + Installation VSC
 
-Raspberry Pi erhalten
+Raspberry Pi nicht erhalten
